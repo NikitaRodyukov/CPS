@@ -101,6 +101,9 @@
         overflow-x: auto;
         gap: 1rem; 
         margin: 24px 0;
+
+        -ms-overflow-style: none;  
+        scrollbar-width: none;  
     }
 
     .slider-menu::-webkit-scrollbar {
