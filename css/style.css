@@ -17,7 +17,7 @@
         background-color: #fff;
     }
     
-    main, .read-more{
+    main, .expand{
         background-color: #F8F8F8;
     }
 
@@ -160,7 +160,7 @@
         margin-right: 1rem;
     }
 
-    .read-more{
+    .expand{
        display: flex;
        justify-content: center;
        align-items: center;
@@ -225,7 +225,7 @@
         display: inline;
     }
 
-    .read-more{
+    .expand{
         margin: 0.625rem 0 0 0;
     }
 
